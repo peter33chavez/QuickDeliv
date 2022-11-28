@@ -1,0 +1,12 @@
+
+
+@tailwind utilities;
+
+.root,
+#root,
+#docs-root {
+    --customers-primary-color: #59c1cc;
+    --orders-primary-color: #eb6a7c;
+    
+}
+
